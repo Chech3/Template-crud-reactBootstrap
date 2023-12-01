@@ -1,0 +1,9 @@
+.botonIns {
+  margin: 10px;
+}
+
+.textoMedio {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
